@@ -6,7 +6,7 @@
 Turning ideas into working websites, web apps, and digital platforms.
 
 [![Email](https://img.shields.io/badge/Email-hello.projectwis%40gmail.com-informational?style=flat&logo=gmail)](mailto:hello.projectwis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohdumar2506)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/project-wis/)
 
 </div>
 
