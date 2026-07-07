@@ -23,7 +23,7 @@ We design and build custom web platforms — from idea to deployed product. Our 
 
 ## 🛠️ Tech We Work With
 
-`React.js` · `Node.js` · `Express.js` · `Next.js` · `MongoDB` · `PostgreSQL` · `Prisma` · `Socket.io` · `Tailwind CSS`
+`React.js` · `Node.js` · `Express.js` · `Next.js` · `MongoDB` · `PostgreSQL` · `Prisma` · `Socket.io` · `Tailwind CSS` . `TypeScript`
 
 ## 📂 Featured Projects
 
