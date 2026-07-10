@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Project WIS
+# Project WIS
 ### Web & Internet Solutions
 
 Turning ideas into working websites, web apps, and digital platforms.
 
 [![Email](https://img.shields.io/badge/Email-hello.projectwis%40gmail.com-informational?style=flat&logo=gmail)](mailto:hello.projectwis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/project-wis/)
+[![MSME](https://img.shields.io/badge/Udyam%20Registered-MSME-orange?style=flat&logo=government)](https://udyamregistration.gov.in)
 
 </div>
 
@@ -23,7 +24,7 @@ We design and build custom web platforms — from idea to deployed product. Our 
 
 ## 🛠️ Tech We Work With
 
-`React.js` · `Node.js` · `Express.js` · `Next.js` · `MongoDB` · `PostgreSQL` · `Prisma` · `Socket.io` · `Tailwind CSS` . `TypeScript`
+`React.js` · `Node.js` · `Express.js` · `Next.js` · `MongoDB` · `PostgreSQL` · `Prisma` · `Socket.io` · `Tailwind CSS` · `TypeScript`
 
 ## 📂 Featured Projects
 
@@ -32,6 +33,10 @@ We design and build custom web platforms — from idea to deployed product. Our 
 | **LMS Platform** | Production learning management system with microservices architecture |
 | **Digital Menu & Ordering** | QR-based restaurant ordering system with real-time updates |
 | **Journal & Peer Review System** | Dual-application academic publishing platform with API integration |
+
+## ✅ Registered & Recognized
+
+Project WIS is a **Udyam Registered MSME** (UDYAM-UP-31-0061177) — recognized by the Government of India as a formal Micro, Small & Medium Enterprise.
 
 ## 🤝 Let's Work Together
 
