@@ -17,10 +17,10 @@ Turning ideas into working websites, web apps, and digital platforms.
 
 We design and build custom web platforms — from idea to deployed product. Our recent work spans:
 
-- **Learning Management Systems** — scalable, microservices-based LMS platforms
-- **Digital Ordering & Menu Systems** — QR-based, real-time ordering solutions for restaurants
-- **Academic & Publishing Platforms** — journal submission and peer review systems
-- **Custom Web Applications** — MERN stack, real-time features, secure architectures
+- **Learning Management Systems** — scalable, microservices-based LMS platforms.
+- **Digital Ordering & Menu Systems** — QR-based, real-time ordering solutions for restaurants.
+- **Academic & Publishing Platforms** — journal submission and peer review systems.
+- **Custom Web Applications** — MERN stack, real-time features, secure architectures.
 
 ## 🛠️ Tech We Work With
 
